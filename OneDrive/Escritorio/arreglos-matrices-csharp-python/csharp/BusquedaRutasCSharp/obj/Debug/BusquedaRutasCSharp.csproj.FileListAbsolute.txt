@@ -1,0 +1,8 @@
+C:\Users\alejandra\source\repos\BusquedaRutasCSharp\BusquedaRutasCSharp\bin\Debug\BusquedaRutasCSharp.exe.config
+C:\Users\alejandra\source\repos\BusquedaRutasCSharp\BusquedaRutasCSharp\bin\Debug\BusquedaRutasCSharp.exe
+C:\Users\alejandra\source\repos\BusquedaRutasCSharp\BusquedaRutasCSharp\bin\Debug\BusquedaRutasCSharp.pdb
+C:\Users\alejandra\source\repos\BusquedaRutasCSharp\BusquedaRutasCSharp\obj\Debug\BusquedaRutasCSharp.csproj.AssemblyReference.cache
+C:\Users\alejandra\source\repos\BusquedaRutasCSharp\BusquedaRutasCSharp\obj\Debug\BusquedaRutasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\alejandra\source\repos\BusquedaRutasCSharp\BusquedaRutasCSharp\obj\Debug\BusquedaRutasCSharp.exe
+C:\Users\alejandra\source\repos\BusquedaRutasCSharp\BusquedaRutasCSharp\obj\Debug\BusquedaRutasCSharp.pdb
+C:\Users\alejandra\source\repos\BusquedaRutasCSharp\BusquedaRutasCSharp\obj\Debug\BusquedaRutasCSharp.exe.config

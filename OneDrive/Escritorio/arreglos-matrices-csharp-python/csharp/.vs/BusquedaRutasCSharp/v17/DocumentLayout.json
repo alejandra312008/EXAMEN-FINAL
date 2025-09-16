@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE39DF7D-30FD-486B-B728-678CD155E1BB}|BusquedaRutasCSharp\\BusquedaRutasCSharp.csproj|c:\\users\\alejandra\\onedrive\\escritorio\\arreglos-matrices-csharp-python\\csharp\\busquedarutascsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE39DF7D-30FD-486B-B728-678CD155E1BB}|BusquedaRutasCSharp\\BusquedaRutasCSharp.csproj|solutionrelative:busquedarutascsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE39DF7D-30FD-486B-B728-678CD155E1BB}|BusquedaRutasCSharp\\BusquedaRutasCSharp.csproj|c:\\users\\alejandra\\onedrive\\escritorio\\arreglos-matrices-csharp-python\\csharp\\busquedarutascsharp\\matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE39DF7D-30FD-486B-B728-678CD155E1BB}|BusquedaRutasCSharp\\BusquedaRutasCSharp.csproj|solutionrelative:busquedarutascsharp\\matrices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE39DF7D-30FD-486B-B728-678CD155E1BB}|BusquedaRutasCSharp\\BusquedaRutasCSharp.csproj|c:\\users\\alejandra\\onedrive\\escritorio\\arreglos-matrices-csharp-python\\csharp\\busquedarutascsharp\\busquedarutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE39DF7D-30FD-486B-B728-678CD155E1BB}|BusquedaRutasCSharp\\BusquedaRutasCSharp.csproj|solutionrelative:busquedarutascsharp\\busquedarutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE39DF7D-30FD-486B-B728-678CD155E1BB}|BusquedaRutasCSharp\\BusquedaRutasCSharp.csproj|c:\\users\\alejandra\\onedrive\\escritorio\\arreglos-matrices-csharp-python\\csharp\\busquedarutascsharp\\arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE39DF7D-30FD-486B-B728-678CD155E1BB}|BusquedaRutasCSharp\\BusquedaRutasCSharp.csproj|solutionrelative:busquedarutascsharp\\arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\BusquedaRutasCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "BusquedaRutasCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\BusquedaRutasCSharp\\Program.cs",
+              "RelativeToolTip": "BusquedaRutasCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T02:20:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrices.cs",
+              "DocumentMoniker": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\BusquedaRutasCSharp\\Matrices.cs",
+              "RelativeDocumentMoniker": "BusquedaRutasCSharp\\Matrices.cs",
+              "ToolTip": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\BusquedaRutasCSharp\\Matrices.cs",
+              "RelativeToolTip": "BusquedaRutasCSharp\\Matrices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T02:20:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusquedaRutas.cs",
+              "DocumentMoniker": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\BusquedaRutasCSharp\\BusquedaRutas.cs",
+              "RelativeDocumentMoniker": "BusquedaRutasCSharp\\BusquedaRutas.cs",
+              "ToolTip": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\BusquedaRutasCSharp\\BusquedaRutas.cs",
+              "RelativeToolTip": "BusquedaRutasCSharp\\BusquedaRutas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T02:20:38.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arreglos.cs",
+              "DocumentMoniker": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\BusquedaRutasCSharp\\Arreglos.cs",
+              "RelativeDocumentMoniker": "BusquedaRutasCSharp\\Arreglos.cs",
+              "ToolTip": "C:\\Users\\alejandra\\OneDrive\\Escritorio\\arreglos-matrices-csharp-python\\CSharp\\BusquedaRutasCSharp\\Arreglos.cs",
+              "RelativeToolTip": "BusquedaRutasCSharp\\Arreglos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T02:20:36.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
