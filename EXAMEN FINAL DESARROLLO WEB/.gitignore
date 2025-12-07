@@ -1,0 +1,10 @@
+# Excluir informe técnico
+INFORME_TECNICO.md
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+

@@ -1,0 +1,174 @@
+{
+	"info": {
+		"_postman_id": "partido-politico-api",
+		"name": "Partido Político API - CRUDL",
+		"description": "Colección de requests para probar el API RESTful de Partidos Políticos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create - Crear Partido Político",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"nombre\": \"Partido Democrático\",\n  \"eslogan\": \"Por un futuro mejor\",\n  \"presidente\": \"Juan Pérez\",\n  \"secretario\": \"María González\",\n  \"tesorero\": \"Carlos Rodríguez\",\n  \"pais\": \"Colombia\",\n  \"numPresidentes\": 2,\n  \"numGobernadores\": 5,\n  \"numAlcaldes\": 15,\n  \"numConcejales\": 30,\n  \"numCongresistas\": 25\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/partidos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"partidos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List - Listar Todos los Partidos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/partidos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"partidos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read - Obtener Partido por ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/partidos/:id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"partidos",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "REEMPLAZAR_CON_ID_REAL",
+							"description": "ID del partido político"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update - Actualizar Partido Político",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"nombre\": \"Partido Democrático Actualizado\",\n  \"eslogan\": \"Por un futuro mejor y más justo\",\n  \"presidente\": \"Juan Pérez\",\n  \"secretario\": \"María González\",\n  \"tesorero\": \"Carlos Rodríguez\",\n  \"pais\": \"Colombia\",\n  \"numPresidentes\": 3,\n  \"numGobernadores\": 6,\n  \"numAlcaldes\": 18,\n  \"numConcejales\": 35,\n  \"numCongresistas\": 28\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/partidos/:id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"partidos",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "REEMPLAZAR_CON_ID_REAL",
+							"description": "ID del partido político"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete - Eliminar Partido Político",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/partidos/:id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"partidos",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "REEMPLAZAR_CON_ID_REAL",
+							"description": "ID del partido político"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Health Check - Verificar API",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
+
+
+
